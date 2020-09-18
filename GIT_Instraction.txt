@@ -1,0 +1,10 @@
+GO to git bash
+
+ls
+cd "<path>"
+git init
+git add .
+git commit -m "Second commit"
+git remote add origin https://github.com/priyamsrimany/angular10.git 
+git remote -v
+git push origin master

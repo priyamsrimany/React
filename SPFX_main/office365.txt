@@ -1,0 +1,15 @@
+priyam@srimany.onmicrosoft.com
+Office365
+
+Create Project
+ yo @microsoft/sharepoint
+
+
+
+gulp bundle --ship
+gulp package-solution --ship
+
+Debug
+https://srimany.sharepoint.com/_layouts/15/workbench.aspx
+_layouts/15
+	

@@ -1,0 +1,4 @@
+Create a project in spfx
+1. go to powershell
+2.  cd .\<folder name>\
+3.  yo @microsoft/sharepoint

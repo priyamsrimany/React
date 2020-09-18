@@ -1,0 +1,41 @@
+install npm
+
+
+npm install -g create-react-app
+
+npm cache clean --force
+
+npx create-react-app basics
+
+
+
+
+C:\Users\Subhamoy\Desktop\React\basics
+
+
+https://bezkoder.com/react-crud-web-api/
+
+
+
+
+
+
+
+JSON server
+
+
+ npm install -D json-server
+ json-server --watch db.json
+
+json-server --watch db.json -p 8000
+
+
+
+Dummy API
+https://api.github.com/users
+https://developer.github.com/v3/users/
+
+
+USEFUL LINKS
+https://www.digitalocean.com/community/tutorials/getting-started-with-react-hooks#react%E2%80%99s-state-hook
+
